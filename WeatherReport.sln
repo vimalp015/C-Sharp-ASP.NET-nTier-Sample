@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherReport", "WeatherReport\WeatherReport.csproj", "{5B267FB9-0EE8-427C-B25B-23FC8A6ED361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherReport.Tests", "WeatherReport.Tests\WeatherReport.Tests.csproj", "{A310E36E-B431-4165-BE05-F348ADD6B073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B267FB9-0EE8-427C-B25B-23FC8A6ED361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B267FB9-0EE8-427C-B25B-23FC8A6ED361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B267FB9-0EE8-427C-B25B-23FC8A6ED361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B267FB9-0EE8-427C-B25B-23FC8A6ED361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A310E36E-B431-4165-BE05-F348ADD6B073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A310E36E-B431-4165-BE05-F348ADD6B073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A310E36E-B431-4165-BE05-F348ADD6B073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A310E36E-B431-4165-BE05-F348ADD6B073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

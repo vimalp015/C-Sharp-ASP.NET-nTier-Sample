@@ -1,4 +1,4 @@
-# WeatherReport
-ASP.Net Web Application to display weather report for your city
+# sample ASP.NET Project
+ASP.Net Web Application structure which could be used for any project
 
 *The app is for demo purpose only and not for production use as is
